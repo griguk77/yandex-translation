@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yandex-translation/static/css/main.a9089c74.chunk.css",
+    "main.js": "/yandex-translation/static/js/main.165f9cc3.chunk.js",
+    "main.js.map": "/yandex-translation/static/js/main.165f9cc3.chunk.js.map",
+    "runtime~main.js": "/yandex-translation/static/js/runtime~main.86dff5c6.js",
+    "runtime~main.js.map": "/yandex-translation/static/js/runtime~main.86dff5c6.js.map",
+    "static/js/2.3ad75f56.chunk.js": "/yandex-translation/static/js/2.3ad75f56.chunk.js",
+    "static/js/2.3ad75f56.chunk.js.map": "/yandex-translation/static/js/2.3ad75f56.chunk.js.map",
+    "index.html": "/yandex-translation/index.html",
+    "precache-manifest.cdde71a95161c59fe1cb4ae232e5d600.js": "/yandex-translation/precache-manifest.cdde71a95161c59fe1cb4ae232e5d600.js",
+    "service-worker.js": "/yandex-translation/service-worker.js",
+    "static/css/main.a9089c74.chunk.css.map": "/yandex-translation/static/css/main.a9089c74.chunk.css.map"
+  }
+}
